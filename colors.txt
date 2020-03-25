@@ -1,1 +1,4 @@
 purple
+black
+white
+green
