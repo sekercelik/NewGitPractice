@@ -4,3 +4,6 @@ teachers
 books
 notebooks
 folders
+a
+b
+c
