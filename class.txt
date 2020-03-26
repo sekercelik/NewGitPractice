@@ -3,3 +3,4 @@ students
 teachers
 books
 notebooks
+folders
