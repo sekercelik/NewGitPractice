@@ -6,3 +6,5 @@ Mercedes S500
 BMW X6
 Kia Optima
 lexus GX470
+tofas
+Subaru
