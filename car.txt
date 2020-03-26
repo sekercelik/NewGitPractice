@@ -2,3 +2,6 @@ honda CRV
 toyota corolla
 BMW
 Mercedes S500
+
+BMW X6
+Kia Optima
