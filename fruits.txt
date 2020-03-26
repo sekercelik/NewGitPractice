@@ -2,8 +2,3 @@ apple
 orange
 pear
 banana
-dragon fruit
-kiwi
-mango
-
-
