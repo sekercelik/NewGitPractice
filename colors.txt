@@ -3,3 +3,6 @@ black
 white
 green
 orange
+white
+blue
+pink
